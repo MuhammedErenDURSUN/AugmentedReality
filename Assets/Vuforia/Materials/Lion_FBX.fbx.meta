@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 40d6c439a1b04495fa5e5ff5146b4e86
+timeCreated: 1512300851
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body
+    100002: face
+    100004: Hair
+    100006: hair
+    100008: left_eye
+    100010: //RootNode
+    100012: nose
+    100014: nurbsToPoly10
+    100016: nurbsToPoly11
+    100018: nurbsToPoly12
+    100020: nurbsToPoly13
+    100022: nurbsToPoly14
+    100024: nurbsToPoly6
+    100026: nurbsToPoly7
+    100028: nurbsToPoly8
+    100030: nurbsToPoly9
+    100032: right_eye
+    100034: tail
+    100036: Teeth
+    100038: tonge
+    400000: body
+    400002: face
+    400004: Hair
+    400006: hair
+    400008: left_eye
+    400010: //RootNode
+    400012: nose
+    400014: nurbsToPoly10
+    400016: nurbsToPoly11
+    400018: nurbsToPoly12
+    400020: nurbsToPoly13
+    400022: nurbsToPoly14
+    400024: nurbsToPoly6
+    400026: nurbsToPoly7
+    400028: nurbsToPoly8
+    400030: nurbsToPoly9
+    400032: right_eye
+    400034: tail
+    400036: Teeth
+    400038: tonge
+    2300000: body
+    2300002: face
+    2300004: hair
+    2300006: left_eye
+    2300008: nose
+    2300010: nurbsToPoly10
+    2300012: nurbsToPoly11
+    2300014: nurbsToPoly12
+    2300016: nurbsToPoly13
+    2300018: nurbsToPoly14
+    2300020: nurbsToPoly6
+    2300022: nurbsToPoly7
+    2300024: nurbsToPoly8
+    2300026: nurbsToPoly9
+    2300028: right_eye
+    2300030: tail
+    2300032: Teeth
+    2300034: tonge
+    3300000: body
+    3300002: face
+    3300004: hair
+    3300006: left_eye
+    3300008: nose
+    3300010: nurbsToPoly10
+    3300012: nurbsToPoly11
+    3300014: nurbsToPoly12
+    3300016: nurbsToPoly13
+    3300018: nurbsToPoly14
+    3300020: nurbsToPoly6
+    3300022: nurbsToPoly7
+    3300024: nurbsToPoly8
+    3300026: nurbsToPoly9
+    3300028: right_eye
+    3300030: tail
+    3300032: Teeth
+    3300034: tonge
+    4300000: body
+    4300002: face
+    4300004: tonge
+    4300006: left_eye
+    4300008: right_eye
+    4300010: nose
+    4300012: tail
+    4300014: nurbsToPoly6
+    4300016: nurbsToPoly7
+    4300018: nurbsToPoly8
+    4300020: nurbsToPoly9
+    4300022: nurbsToPoly10
+    4300024: nurbsToPoly11
+    4300026: nurbsToPoly12
+    4300028: nurbsToPoly13
+    4300030: nurbsToPoly14
+    4300032: hair
+    4300034: Teeth
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_blinn1
+    second: {fileID: 2100000, guid: bd603a846657745288101951c2a36dd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_blinn4
+    second: {fileID: 2100000, guid: 60d37dc9289de4f099953c83009c5adf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_blinn5
+    second: {fileID: 2100000, guid: a38bf1ddbff814358b4daa2acdb577e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_blinn6
+    second: {fileID: 2100000, guid: 0fc77d7b8eaf947c482e9964f69d0bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_blinn7
+    second: {fileID: 2100000, guid: 687b1289b46264bccb252d208cfdba75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_lambert3
+    second: {fileID: 2100000, guid: 47c21cdf31de24da2a409906ae53f31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_lambert4
+    second: {fileID: 2100000, guid: 9b76f3359c6de47eea9d0a7e598d3406, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
